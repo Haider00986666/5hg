@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;OM;PS;SA;SD" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
+https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/rjXDCN5.png" group-title="Undefined",Al Rafidain (720p) [Not 24/7]
+https://cdg8.edge.technocdn.com/arrafidaintv/source/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="General",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;BH;IQ;PS;QA;AE;YE" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Arabia (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;OM;PS;SA;SD" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="News",DW Arabic (1080p)
+https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="News",Dijlah
+https://ghaasiflu.online/Dijlah/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;OM;PS;SA;SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Arabic (1080p)
+https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="News",KurdSat News (1080p) [Not 24/7]
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Undefined",Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/GLfhYSH.png" group-title="Undefined",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="Undefined",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CO;DK;EG;FI;FR;GE;DE;GR;HK;HU;IN;ID;IR;IQ;IL;KW;MX;MN;MA;NL;OM;PE;SK;SD;SE;AE;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined;FRANCE;MEXICO",NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Undefined",NRT TV (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="Undefined",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" group-title="Undefined",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="Undefined",SterkTV (1080p) [Not 24/7]
+https://602ccc850c9bb.streamlock.net/sterktv/smil:sterk.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="Undefined",Waar TV
+https://ca-rt.onetv.app/Waar/index-0.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="" group-title="News",iNEWS (1080p) [Not 24/7]
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8?checkedby:iptvcat.com
