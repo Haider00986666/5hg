@@ -1,1 +1,2 @@
-
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
